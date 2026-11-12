@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxsky logo"/>
+</p>
+
 # voxsky
 
 Pure Dart astronomical time-of-day clock, solar/lunar ephemeris, atmospheric sky color ramps, weather transitions, and turbulent spatial wind fields.
